@@ -14,8 +14,8 @@ t.me/BJ_Lover（图片）
 t.me/ChunChaogeMeitui（图片）
 t.me/holozon（短视频/图片）
 t.me/gifsharee（Gif）
-t.me/mengxincos（cos）
-t.me/hersound（3d）
+t.me/mengxincos（cos图）
+t.me/hersound（3d区）
 t.me/LenXiaoHuQWQ（里番）
 
 🎮黄油频道
