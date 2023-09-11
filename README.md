@@ -1,5 +1,7 @@
 # Telegram入门教程
 
+>此教程仅作为新手使用Telegram的教学，还有很多其他知识需要自己慢慢摸索
+
 ## 简单介绍
 
 telegram（又称TG、电报或纸飞机）是一款专注于速度与安全的跨平台即时通讯软件，因其内置代理不易被检测而受到用户青睐。
@@ -57,11 +59,9 @@ telegram（又称TG、电报或纸飞机）是一款专注于速度与安全的�
 
 7. 电报能使用代理（代理后可以不再使用科学上网工具），有公益频道会定期分享免费代理（真是做慈善啊），点击其链接可以自动完成配置，但免费的代理一般都只能坚持一周至一月不等所以实际体验不佳
 
-# Telegram频道分享
+## Telegram频道分享
 
->Telegram的[使用方法（此链接跳转至黑盒）](https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=108946494)
-
-## 💾破解软件分享频道
+### 💾破解软件分享频道
 
 https://t.me/PJAPK
 
@@ -69,8 +69,7 @@ https://t.me/fun_apk
 
 https://t.me/watashinoAPPs
 
-
-## 📺nsfw视频图片频道
+### 📺nsfw视频图片频道
 
 https://t.me/madou1916 （麻豆传媒）
 
@@ -94,8 +93,7 @@ https://t.me/hersound （3d区）
 
 https://t.me/LenXiaoHuQWQ （里番）
 
-
-## 🎮黄油频道
+### 🎮黄油频道
 
 https://t.me/HHYSHARE
 
@@ -109,23 +107,23 @@ https://t.me/ACGgamer
 
 https://t.me/acggame
 
-
-## 📖H漫频道
+### 📖H漫频道
 
 https://t.me/manWu
 
-
-## 🎥影视群
+### 🎥影视群
 
 https://t.me/joinchat/KmUaGU2yIP74UhZqCTON2w
 
-
 （远鉴字幕组的交流群，想进频道需要在群里申请。美剧、好莱坞电影基本上第一时间就会有资源，非常推荐）
 
-## 🤖搜索BOT
+### 🤖搜索BOT
 
 [@so123Bot](https://t.me/So1234Bot)
 
 [@hao1234bot](https://t.me/hao1234bot)
 
 [@ququn_bot](https://t.me/ququn_bot)（专搜中文群组）
+
+>所有内容均由本人（[小黑盒：白开水也很好喝的](https://www.xiaoheihe.cn/community/user/36272066/post_list)）收集整理，转载请标注来源
+
