@@ -57,4 +57,5 @@ t.me/manWu
 🎥影视群
 
 t.me/joinchat/KmUaGU2yIP74UhZqCTON2w
+
 （远鉴字幕组的交流群，想进频道需要在群里申请，美剧、好莱坞电影基本上第一时间就会有资源，非常推荐）
