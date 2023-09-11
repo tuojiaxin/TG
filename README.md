@@ -10,13 +10,15 @@ telegram（又称TG、电报或纸飞机）是一款专注于速度与安全的�
 
 网页版：https://web.telegram.org/
 
-安卓端下载：https://telegram.org/android
+谷歌商店版（安卓）：https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en
 
-ios端下载：https://telegram.org/dl/ios
+官网安卓端下载：https://telegram.org/android
 
-Win/Linux下载：https://desktop.telegram.org/
+官网ios端下载：https://telegram.org/dl/ios
 
-Mac端下载：https://macos.telegram.org/
+官网Win/Linux下载：https://desktop.telegram.org/
+
+官网Mac端下载：https://macos.telegram.org/
 
 
 ## 账号注册
