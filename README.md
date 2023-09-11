@@ -6,17 +6,17 @@ telegram（又称TG、电报或纸飞机）是一款专注于速度与安全的�
 
 ## 官网&下载地址
 
-官网地址（提供各个平台版本的下载）：telegram.org
+官网地址（提供各个平台版本的下载）：https://telegram.org/
 
-网页版：web.telegram.org
+网页版：https://web.telegram.org/
 
-安卓端下载：telegram.org/android
+安卓端下载：https://telegram.org/android
 
-ios端下载：telegram.org/dl/ios
+ios端下载：https://telegram.org/dl/ios
 
-Win/Linux下载：desktop.telegram.org
+Win/Linux下载：https://desktop.telegram.org/
 
-Mac端下载：macos.telegram.org
+Mac端下载：https://macos.telegram.org/
 
 
 ## 账号注册
@@ -26,9 +26,9 @@ Mac端下载：macos.telegram.org
 
 
 ## 汉化方法
-**方法一**：在已有联系人或群组的情况下，可以发送这个链接tg://setlanguage?lang=zhcncc直接点击汉化即可
+**方法一**：在已有联系人或群组的情况下，可以发送这个链接 tg://setlanguage?lang=zhcncc 直接点击汉化即可
 
-**方法二**：在软件内搜索框搜索setlanguagelangzhcncc或浏览器搜t.me/setlanguagelangzhcncc进入汉化频道，无需关注，点击其介绍页的链接（链接实际内容同上）就能完成汉化
+**方法二**：在软件内搜索框搜索 setlanguagelangzhcncc 或浏览器搜 https://t.me/setlanguagelangzhcncc 进入汉化频道，无需关注，点击其介绍页的链接（链接实际内容同上）就能完成汉化
 
 
 
@@ -82,7 +82,7 @@ https://t.me/holozon （短视频/图片）
 
 https://t.me/BJ_Lover （图片）
 
-https://t.me/ChunChaogeMeitui （图片）
+https://t.me/ChunChaogeMeitui （美腿图）
 
 https://t.me/gifsharee （Gif）
 
@@ -119,3 +119,11 @@ https://t.me/joinchat/KmUaGU2yIP74UhZqCTON2w
 
 
 （远鉴字幕组的交流群，想进频道需要在群里申请。美剧、好莱坞电影基本上第一时间就会有资源，非常推荐）
+
+## 🤖搜索BOT
+
+[@so123Bot](https://t.me/So1234Bot)
+
+[@hao1234bot](https://t.me/hao1234bot)
+
+[@ququn_bot](https://t.me/ququn_bot)（专搜中文群组）
