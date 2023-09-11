@@ -1,6 +1,8 @@
 # Telegram频道分享
 
-💾破解软件分享频道
+>Telegram的[使用方法（此链接跳转至黑盒）](https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=108946494)
+
+## 💾破解软件分享频道
 
 t.me/PJAPK
 
@@ -9,7 +11,7 @@ t.me/fun_apk
 t.me/watashinoAPPs
 
 
-📺nsfw视频图片频道
+## 📺nsfw视频图片频道
 
 t.me/sakura_movie（长视频/传媒）
 
@@ -34,7 +36,7 @@ t.me/hersound（3d区）
 t.me/LenXiaoHuQWQ（里番）
 
 
-🎮黄油频道
+## 🎮黄油频道
 
 t.me/HHYSHARE
 
@@ -49,13 +51,14 @@ t.me/ACGgamer
 t.me/acggame
 
 
-📖H漫频道
+## 📖H漫频道
 
 t.me/manWu
 
 
-🎥影视群
+## 🎥影视群
 
 t.me/joinchat/KmUaGU2yIP74UhZqCTON2w
+
 
 （远鉴字幕组的交流群，想进频道需要在群里申请，美剧、好莱坞电影基本上第一时间就会有资源，非常推荐）
