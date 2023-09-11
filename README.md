@@ -13,27 +13,27 @@ https://t.me/watashinoAPPs
 
 ## 📺nsfw视频图片频道
 
-https://t.me/sakura_movie（长视频/传媒）
+https://t.me/madou1916 （麻豆传媒）
 
-https://t.me/xapk91（长视频）
+https://t.me/sakura_movie （长视频/xx传媒）
 
-https://t.me/madou1916（传媒）
+https://t.me/xapk91 （长视频）
 
-https://t.me/TanHuo（长视频）
+https://t.me/TanHuo （长视频）
 
-https://t.me/BJ_Lover（图片）
+https://t.me/holozon （短视频/图片）
 
-https://t.me/ChunChaogeMeitui（图片）
+https://t.me/BJ_Lover （图片）
 
-https://t.me/holozon（短视频/图片）
+https://t.me/ChunChaogeMeitui （图片）
 
-https://t.me/gifsharee（Gif）
+https://t.me/gifsharee （Gif）
 
-https://t.me/mengxincos（cos图）
+https://t.me/mengxincos （cos图）
 
-https://t.me/hersound（3d区）
+https://t.me/hersound （3d区）
 
-https://t.me/LenXiaoHuQWQ（里番）
+https://t.me/LenXiaoHuQWQ （里番）
 
 
 ## 🎮黄油频道
