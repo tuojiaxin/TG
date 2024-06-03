@@ -117,7 +117,7 @@ https://t.me/manWu
 
 https://t.me/joinchat/KmUaGU2yIP74UhZqCTON2w
 
-（远鉴字幕组的交流群，想进频道需要在群里申请。美剧、好莱坞电影基本上第一时间就会有资源，非常推荐）
+（远鉴字幕组的交流群，已被封禁）
 
 ![Screenshot_2023-08-31-12-15-11-144_org telegram messenger-edit](https://github.com/tuojiaxin/Telegram/assets/104051247/9590e259-9748-478f-8ce7-8f8c0e0c51a6)
 
@@ -131,4 +131,4 @@ https://t.me/joinchat/KmUaGU2yIP74UhZqCTON2w
 
 >如果觉得本篇有帮助的话，不妨关注[我的黑盒账号](https://www.xiaoheihe.cn/community/user/36272066/post_list)✧٩(ˊωˋ*)و✧，以后会写更多有用有意思的内容
 >
->**所有内容均由本人（小黑盒：白开水也很好喝的）收集整理，转载请标注来源**
+>**所有内容均由本人（小黑盒：還如一夢中）收集整理，转载请标注来源**
